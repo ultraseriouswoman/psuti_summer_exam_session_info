@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u041F\u0413\u0423\u0422\u0418\\\u041B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\TaskWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{318A3945-2DFB-38C7-93D3-AA774A5B53D7}|TaskWinForms\\TaskWinForms.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\\u043F\u0433\u0443\u0442\u0438\\\u043B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\taskwinforms\\taskwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318A3945-2DFB-38C7-93D3-AA774A5B53D7}|TaskWinForms\\TaskWinForms.csproj|solutionrelative:taskwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318A3945-2DFB-38C7-93D3-AA774A5B53D7}|TaskWinForms\\TaskWinForms.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\\u043F\u0433\u0443\u0442\u0438\\\u043B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\taskwinforms\\taskwinforms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{318A3945-2DFB-38C7-93D3-AA774A5B53D7}|TaskWinForms\\TaskWinForms.csproj|solutionrelative:taskwinforms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318A3945-2DFB-38C7-93D3-AA774A5B53D7}|TaskWinForms\\TaskWinForms.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u041F\u0413\u0423\u0422\u0418\\\u041B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\TaskWinForms\\taskwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{318A3945-2DFB-38C7-93D3-AA774A5B53D7}|TaskWinForms\\TaskWinForms.csproj|solutionrelative:taskwinforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318A3945-2DFB-38C7-93D3-AA774A5B53D7}|TaskWinForms\\TaskWinForms.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\\u043F\u0433\u0443\u0442\u0438\\\u043B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\taskwinforms\\taskwinforms\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{318A3945-2DFB-38C7-93D3-AA774A5B53D7}|TaskWinForms\\TaskWinForms.csproj|solutionrelative:taskwinforms\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u041F\u0413\u0423\u0422\u0418\\\u041B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\TaskWinForms\\TaskWinForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "TaskWinForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u041F\u0413\u0423\u0422\u0418\\\u041B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\TaskWinForms\\TaskWinForms\\MainForm.cs [Design]",
+              "RelativeToolTip": "TaskWinForms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:50:43.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u041F\u0413\u0423\u0422\u0418\\\u041B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\TaskWinForms\\TaskWinForms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "TaskWinForms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u041F\u0413\u0423\u0422\u0418\\\u041B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\TaskWinForms\\TaskWinForms\\MainForm.Designer.cs",
+              "RelativeToolTip": "TaskWinForms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowIkAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:12:36.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u041F\u0413\u0423\u0422\u0418\\\u041B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\TaskWinForms\\TaskWinForms\\MainForm.resx",
+              "RelativeDocumentMoniker": "TaskWinForms\\MainForm.resx",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u041F\u0413\u0423\u0422\u0418\\\u041B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\TaskWinForms\\TaskWinForms\\MainForm.resx",
+              "RelativeToolTip": "TaskWinForms\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-07T18:12:40.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u041F\u0413\u0423\u0422\u0418\\\u041B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\TaskWinForms\\TaskWinForms\\MainForm.cs",
+              "RelativeDocumentMoniker": "TaskWinForms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u041F\u0413\u0423\u0422\u0418\\\u041B\u0435\u0442\u043D\u044F\u044F \u0441\u0435\u0441\u0441\u0438\u044F 1 \u043A\u0443\u0440\u0441\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\TaskWinForms\\TaskWinForms\\MainForm.cs",
+              "RelativeToolTip": "TaskWinForms\\MainForm.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:12:33.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

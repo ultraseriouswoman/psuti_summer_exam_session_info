@@ -1,0 +1,28 @@
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.exe
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.deps.json
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.dll
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.pdb
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.dll
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\refint\TestConsoleApp.dll
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.pdb
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Проекты\Новая папка\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\ref\TestConsoleApp.dll
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.exe
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.deps.json
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.dll
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\bin\Debug\net10.0\TestConsoleApp.pdb
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.dll
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\refint\TestConsoleApp.dll
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.pdb
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\TestConsoleApp.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ПГУТИ\Летняя сессия 1 курс\Программирование\TestConsoleApp\TestConsoleApp\obj\Debug\net10.0\ref\TestConsoleApp.dll
